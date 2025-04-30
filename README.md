@@ -1,5 +1,3 @@
-Okay, here is a README.md file suitable for a GitHub repository, based exactly on the detailed Salesforce setup instructions you provided for SCRA Lite.
-
 # Supply Chain Resilience Agent (SCRA) Lite - Salesforce Agentforce Project
 
 This repository contains the configuration details for SCRA Lite, an AI-powered agent built declaratively on the Salesforce Platform using Agent Builder and Flow.
